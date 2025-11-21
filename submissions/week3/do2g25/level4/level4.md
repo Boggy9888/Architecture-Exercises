@@ -8,12 +8,13 @@ Seemed cool
 
 # Code and demo
 
+Unfortunately, due to github file size restrictions I am not able to upload the .pth file that is my trained model here. I am aware there are ways to get around this with github large file storage but I have attached all the code (including the script used to train the model) and a demo so I think that should be good enough. <br> <br>
 The code can be found in this folder [here](./) <br>
 Demo: [demo](https://github.com/Boggy9888/Architecture-Exercises/blob/main/submissions/week3/do2g25/level4/Screencast%20from%202025-11-21%2018-57-21.webm)
 
 # What I learned
 
-Not much, similar to other projects I've done in the past
+Not much, I've done similar projects in the past
 
 # What I'd improve next
 
